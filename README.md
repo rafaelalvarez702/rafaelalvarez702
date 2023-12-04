@@ -2,7 +2,7 @@
 
 ### Hi there I´m Rafael Alvarez 👋
 
-![imagen](https://inset.edu.ar/laweb/wp-content/uploads/2020/11/Banner-TSCDeIA.jpg)
+![imagen](https://www.abgconsultoria.com.br/blog/wp-content/uploads/171127-Data-Science.jpg)
 
 <!--
 **rafaelalvarez702/rafaelalvarez702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
